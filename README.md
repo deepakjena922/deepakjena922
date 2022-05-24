@@ -1,6 +1,6 @@
 Hello👋, I am Deepak Jena
 I am a Bioinformatician at SCIC, Raipur, analysing high through-put genomics data to solve biological problems.
-I’m interested in AI and ML, currently implementong machine learning models in healthcare problems.
+I’m interested in AI and ML, currently implementing machine learning models in healthcare problems.
 
 How to reach me deepakjena922@gmail.com
 
